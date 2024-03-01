@@ -1,0 +1,11 @@
+a) Pierrick souhaite s'inscrire sur mon site 
+ POST
+
+b) Pierrick a tapé trop vite et s'est trompé dans son adresse, il envoie de nouvelles info pour mettre à jour son lieu d'habitation
+ PUT
+
+c) Pierrick consulte sa page profil pour vérifier que tout est bon, il récupère ses info pour les afficher sur le site
+ GET
+
+d) Pierrick n'aime finalement pas ce site, et souhaite donc supprimer ses infos et son compte
+DELETE
